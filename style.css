@@ -1,0 +1,12 @@
+body {
+    background-color: #ceedff;
+    color: #393737;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #1447e1;
+    text-align: center;
+    letter-spacing: 1px;
+}
